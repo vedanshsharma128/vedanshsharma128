@@ -1,30 +1,38 @@
 <h1 align="center">Hi 👋, I'm Vedansh Sharma</h1>
-<h3 align="center">Full-Stack Developer | AI Engineer | Tech Explorer</h3>
+<h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Innovating with Code</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vedansh0704&label=Profile%20views&color=0e75b6&style=flat" alt="Vedansh0704" />
+  <img src="https://komarev.com/ghpvc/?username=Vedansh0704&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-- 🔭 I’m currently working on **Kaido – a real-time AI voice assistant with face & emotion recognition**
+---
 
-- 🌱 I’m exploring **XAI, LLMs, agentic systems**, and building AI-first products.
-
-- 💬 Ask me about `JavaScript`, `React`, `Node.js`, `Python`, `LLMs`, `Express`, `MongoDB`, `Prompt Engineering`, `Docker`, and more.
-
-- 📫 How to reach me: **vedansh0704@gmail.com**
+🎓 Final-year CSE student @ SRM University | 💡 Passionate about building intelligent, scalable, and user-centric digital solutions.  
+🔬 Exploring the frontiers of **Generative AI**, **Edge Intelligence**, and **Real-time Systems**.
 
 ---
 
-### 🧠 Current Projects:
-- 🧬 **Kaido** – Next-gen AI assistant (Face + Voice + XAI)
-- 💼 **ITAM Web App** – AI-powered IT Asset Management system
-- 💬 **Medical Chatbot AI** – With real-time speech emotion recognition
+### 🚀 What I’m Currently Working On
+- **🧬 Kaido** – Real-time AI assistant with speech emotion & facial recognition + XAI backend
+- **💼 ITAM Web App** – Smart IT Asset Management System with AI insights
+- **🩺 Medical AI Chatbot** – Doctor-like interface with real-time speech sentiment & face ID
 
 ---
 
-### 🛠️ Tech Stack:
+### 🧠 What I Specialize In
+- **AI Engineering**: LLMs, XAI, Speech + Vision Fusion  
+- **Frontend**: React.js, Next.js, TailwindCSS, SCSS  
+- **Backend**: Node.js, Express, MongoDB, REST APIs  
+- **DevOps**: Git, Docker, AWS, CI/CD  
+- **Tools**: Figma, Postman, VS Code, Vercel, Netlify
+
+---
+
+### 🛠️ Tech Stack
+
 ```bash
-Languages:     JavaScript | TypeScript | Python | C | Java
-Frameworks:    React | Next.js | Node.js | Express.js
-Databases:     MongoDB | MySQL
-Tools:         Git | Docker | AWS | Postman | Figma | VS Code
+Languages:     JavaScript | TypeScript | Python | Java | C
+Frontend:      React.js | Next.js | TailwindCSS | HTML | SCSS
+Backend:       Node.js | Express.js | MongoDB | MySQL
+DevOps/Tools:  Docker | Git | AWS | Postman | VS Code | Vercel | Figma
+AI/ML:         TensorFlow | OpenCV | HuggingFace Transformers
