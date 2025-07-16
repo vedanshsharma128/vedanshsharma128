@@ -14,12 +14,12 @@
 
 ### 🚀 What I’m Currently Working On
 - **🧬 Kaido** – Real-time AI assistant with speech emotion & facial recognition + XAI backend
-- **💼 ITAM Web App** – Smart IT Asset Management System with AI insights
+- **🚗 Self Driving Car** – Smart simulation of self driving car with mathamatical and neural networks approach
 - **🩺 Medical AI Chatbot** – Doctor-like interface with real-time speech sentiment & face ID
 
 ---
 
-### 🧠 What I Specialize In
+### Specialized In
 - **AI Engineering**: LLMs, XAI, Speech + Vision Fusion  
 - **Frontend**: React.js, Next.js, TailwindCSS, SCSS  
 - **Backend**: Node.js, Express, MongoDB, REST APIs  
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Techinal Stack
 
 ```bash
 Languages:     JavaScript | TypeScript | Python | Java | C
