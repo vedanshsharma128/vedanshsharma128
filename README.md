@@ -1,38 +1,40 @@
-<h1 align="center">Hi 👋, I'm Vedansh Sharma</h1>
-<h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Innovating with Code</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Vedansh Sharma</h1>
+  <p><strong>Full-Stack Engineer & AI Developer</strong></p>
+  <p>Building intelligent, latency-optimized, and user-centric systems.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vedansh0704&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
----
-
-🎓 Final-year CSE student @ SRM University | 💡 Passionate about building intelligent, scalable, and user-centric digital solutions.  
-🔬 Exploring the frontiers of **Generative AI**, **Edge Intelligence**, and **Real-time Systems**.
-
----
-
-### 🚀 What I’m Currently Working On
-- **🧬 Kaido** – Real-time AI assistant with speech emotion & facial recognition + XAI backend
-- **🚗 Self Driving Car** – Smart simulation of self driving car with mathamatical and neural networks approach
-- **🩺 Medical AI Chatbot** – Doctor-like interface with real-time speech sentiment & face ID
+  <p>
+    <a href="https://vedanshsharma.me"><img src="https://img.shields.io/badge/Portfolio-vedanshsharma.me-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 
 ---
 
-### Specialized In
-- **AI Engineering**: LLMs, XAI, Speech + Vision Fusion  
-- **Frontend**: React.js, Next.js, TailwindCSS, SCSS  
-- **Backend**: Node.js, Express, MongoDB, REST APIs  
-- **DevOps**: Git, Docker, AWS, CI/CD  
-- **Tools**: Figma, Postman, VS Code, Vercel, Netlify
+### 🛠️ Tech Stack
+
+- **Languages:** Python, TypeScript, JavaScript, C++, SQL
+- **Frontend:** Next.js, React, Tailwind CSS, Shadcn UI, Redux
+- **Backend & APIs:** FastAPI, Node.js, Express, REST, WebSockets
+- **AI & Data:** LLMs (Gemini, Claude, GPT), LangChain / LangGraph, RAG, MediaPipe, OpenCV, Vector DBs
+- **Databases & DevOps:** PostgreSQL, MongoDB, Redis, Docker, Git, Vercel
 
 ---
 
-### 🛠️ Techinal Stack
+### 🚀 Featured Projects
 
-```bash
-Languages:     JavaScript | TypeScript | Python | Java | C
-Frontend:      React.js | Next.js | TailwindCSS | HTML | SCSS
-Backend:       Node.js | Express.js | MongoDB | MySQL
-DevOps/Tools:  Docker | Git | AWS | Postman | VS Code | Vercel | Figma
-AI/ML:         TensorFlow | OpenCV | HuggingFace Transformers
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **StoryCraft AI** | Next.js, FastAPI, Flux AI | Character & storybook illustration generator with custom style prompt engineering | [Repo](https://github.com/vedanshsharma128/illustration-prototype) • [Live Demo](#) |
+| **Kaido AI Assistant** | Python, WebSockets, LLMs, Voice | Real-time conversational AI voice assistant with context awareness and function calling | [Repo](https://github.com/vedanshsharma128/Kaido-Generative-Ai-voice-assistant) |
+| **Ticketing Platform** | Next.js, Tailwind, MongoDB | Full-stack issue tracking and priority management platform | [Repo](https://github.com/vedanshsharma128/Ticketing-app) |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedanshsharma128&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshsharma128&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
